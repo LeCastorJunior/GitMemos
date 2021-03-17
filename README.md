@@ -1,5 +1,7 @@
 # Test de git
 
+![Google logo](https://res.cloudinary.com/practicaldev/image/fetch/s---Xg28U2u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/q7uy4yxekcljpr70p2xk.png)
+
 ## Note
 * git rm --cached enleve de la stagging area
 
