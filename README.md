@@ -34,4 +34,4 @@
 ### Gestion des conflits
  * Push impossible 
  * Faire un fetch avant
- $ Resoudre les conflits
+ * Resoudre les conflits
