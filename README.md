@@ -8,7 +8,7 @@
 * git add * ajoute tout les fichier sauf les fichier commencant par un point 
 
 * git diff changement/ajout
-* je tente
+
 
 > Pas de dépôt git dans un dépôt git
 
@@ -34,4 +34,7 @@
 ### Gestion des conflits
  * Push impossible 
  * Faire un fetch avant
+  > git fetch
+  
+  > git merge || git pull
  * Resoudre les conflits
