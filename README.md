@@ -20,7 +20,8 @@
 
 * git branch affiche les branches local
 
- * git checkout <nom_de_la_branche> change de branche 
+ * git checkout <nom_de_la_branche> creation de branche 
 
+*git checkout -b <nom_de_la_branche> creation et aller directement sur la branche
  
 ![Git logo](assets\capt01.png)
