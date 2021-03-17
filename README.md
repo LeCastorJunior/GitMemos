@@ -26,4 +26,12 @@
  
 ![Git logo](/assets/capt01.png)
 
-* git branch -D <nom_de_la_branche>
+* git branch -D <nom_de_la_branche> supprime la branch
+
+## Fusion des branches
+ * git merge <nom_de_la_branche>
+
+### Gestion des conflits
+ * Push impossible 
+ * Faire un fetch avant
+ $ Resoudre les conflits
