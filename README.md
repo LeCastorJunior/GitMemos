@@ -11,3 +11,13 @@
 
 
 > Pas de dépôt git dans un dépôt git
+
+* git branch <nom_branche>
+
+> Git head pointe vers la branche master
+
+* git branch -a affiche toute les branches
+
+* git branch affiche les branches local
+
+ * git checkout <nom_de_la_branche> change de branche 
