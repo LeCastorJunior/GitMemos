@@ -22,6 +22,8 @@
 
  * git checkout <nom_de_la_branche> creation de branche 
 
-*git checkout -b <nom_de_la_branche> creation et aller directement sur la branche
+* git checkout -b <nom_de_la_branche> creation et aller directement sur la branche
  
 ![Git logo](/assets/capt01.png)
+
+* git branch -D <nom_de_la_branche>
