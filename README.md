@@ -24,4 +24,4 @@
 
 *git checkout -b <nom_de_la_branche> creation et aller directement sur la branche
  
-![Git logo](assets\capt01.png)
+![Git logo](/assets/capt01.png)
