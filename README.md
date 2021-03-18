@@ -49,4 +49,13 @@
     * git commit -m "message"
     * git <nom de remote> <nom de branche>
 
+## Stash
+Avant un add (limite dernier commit dans le depot local)
+
+    * git stash  annule modif
+    * git stash pop  Voir changement annulé
+    * git stash show  Voir les changement annulé
+    * git stash drop  Supprimer dernier remisage
+    * git stash clear  Vide la pile
+
 <!-- ## Pull request -->
