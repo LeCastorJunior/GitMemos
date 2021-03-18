@@ -38,3 +38,15 @@
   
   > git merge || git pull
  * Resoudre les conflits
+
+## Remote
+ Utilisation d'une remote
+
+    * git remote add <nom de remote> <url du dépot>
+    * git fetch <nom de remote>
+    * (modification des fichier)
+    * git add *
+    * git commit -m "message"
+    * git <nom de remote> <nom de branche>
+
+<!-- ## Pull request -->
