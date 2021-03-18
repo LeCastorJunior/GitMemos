@@ -65,6 +65,6 @@ Modification de commit
     * git commit --amend  -m "nouveau message" remplace le message du dernioer commit
     * git revert <id du commit> reviens au commit
     * git revert HEAD~3. .HEAD revjiend de trois commit en arriere (creez un nouveau commit)
-    *git reset <nom du commit > supprime tout les commit apres ce commit reviens a cette etat.
+    * git reset <nom du commit > supprime tout les commit apres ce commit reviens a cette etat.
 
 <!-- ## Pull request -->
